@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdhavalparmar)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhavalparmar&layout=compact&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdhavalparmar)](https://github.com/anuraghazra/github-readme-stats) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhavalparmar&layout=compact&theme=blue-green)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
