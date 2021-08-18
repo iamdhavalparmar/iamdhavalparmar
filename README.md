@@ -3,7 +3,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=iamdhavalparmar)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhavalparmar&theme=blue-green)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
